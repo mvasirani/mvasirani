@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Matteo, I am a Senior Data Science Manager @github
+My name is Matteo, Data @ github
 
 <!--
 **mvasirani/mvasirani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
